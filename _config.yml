@@ -1,0 +1,28 @@
+name: Rhino Chiropractic
+favicon: null
+layout_spectrum: 0.314771487377584
+typography_spectrum: 0.3463387624360621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.39369372045621276
+  lightness: 0.36234238278120756
+  saturation: 0.012057567946612835
+  rhythmicContrast: 0.4413073197938502
+purpose: []
